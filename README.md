@@ -6,7 +6,7 @@ The **Credit Card Approval Prediction** project is a Machine Learning web applic
 
 The application provides a simple and user-friendly interface where users enter their details and receive an instant prediction.
 
----
+**Live Appilication:**https://github.com/Mallika18041/credit-card-approval-prediction18.git
 
 ## 🎯 Objectives
 
